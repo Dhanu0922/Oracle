@@ -1,1 +1,1 @@
-# Oracle
+Building the Foundation: Step-by-Step Guide to Creating an Oracle Database From Setup to Configuration, Mastering the Basics! #OracleDatabase #DatabaseCreation #TechTutorial"
